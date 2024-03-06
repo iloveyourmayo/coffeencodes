@@ -1,0 +1,135 @@
+
+
+
+/*
+.header-container{    
+    background-color: #292828;    pwede remove bg color 
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    padding-top: 30px;
+    gap: 1px;  
+
+}   
+*/
+
+
+.btn-success {
+    width: 110px;
+    background-color: #344955; 
+    color: #585656;
+    border-width: 1px;
+    border-color: #191919;
+    border-radius: 4px 4px 4px 4px;
+    padding: 4px;
+    margin-left: 15px;
+
+}
+
+.btn-success:hover {
+    background-color: #344955;
+
+    color: #b9b8b8;
+    border-color: #191919; 
+}
+
+.btn-success:active {
+    background-color: #0f0f0f;
+    color: #b9b8b8;
+    border-color: #344955; 
+}
+
+
+
+
+
+
+
+.btn {
+    width: 110px;
+    background-color: #191919;
+    color: #585656;
+    border-width: 1px;
+    border-color: #191919;
+    border-radius: 4px 4px 4px 4px;
+    padding: 4px;
+    margin-left: 15px;
+
+}
+
+.btn:hover {
+    background-color: #344955; 
+    color: #b9b8b8;
+    border-color: #344955; 
+}
+
+
+
+.container{
+    color: rgb(169, 175, 168);
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    flex-flow: column nowrap;
+    margin: 50px;
+
+}
+
+
+.section-container {
+    background-color: ;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    height: 100vh;
+    margin-left: 60px;
+    margin-top: 10rem;
+
+  }
+
+.card-body{
+
+    background-color: #212529;
+    border-color: #344955;
+    bs-card-border-color: #344955;
+    color: #979b9e;
+}
+
+
+.btn-primary {
+    background-color: #2e3f49; 
+    color: #8b8b8b;
+    border-color: #344955;
+    border-width: 1px;
+    border-color: #191919;
+    width: 300px;
+    padding: 8px;
+    border-radius: 15px 3px 15px 0px;
+    text-decoration: none;
+}
+
+.btn-primary:hover {
+    background-color: #29353b;
+    color: #b9b8b8;
+    
+}
+
+
+/*
+.container-fluid{
+    display: flex;
+    justify-content: baseline;
+    align-items: start;
+}
+
+.form-control{
+border-end-end-radius: 50%;
+writing-mode: vertical-rl;
+    
+}
+
+*/
+
